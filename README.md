@@ -1,2 +1,0 @@
-# Sniperbot
-Sniper
